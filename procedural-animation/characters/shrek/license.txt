@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shrek OG XBOX Rig
+* source:	https://sketchfab.com/3d-models/shrek-og-xbox-rig-906af534361e463c906fd2277f0e23c6
+* author:	CLfanmodel (https://sketchfab.com/jamescontreras2001)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shrek OG XBOX Rig" (https://sketchfab.com/3d-models/shrek-og-xbox-rig-906af534361e463c906fd2277f0e23c6) by CLfanmodel (https://sketchfab.com/jamescontreras2001) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,3 +1,22 @@
 [gd_scene format=3 uid="uid://dfpc310xa1rtg"]
 
+[ext_resource type="PackedScene" uid="uid://cprgbnjhyo5jr" path="res://characters/shrek/character.tscn" id="1_ig7tw"]
+
 [node name="Node3D" type="Node3D" unique_id=1771130261]
+
+[node name="CSGBox3D" type="CSGBox3D" parent="." unique_id=2058451055]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.51943016, 0)
+use_collision = true
+collision_layer = 3
+collision_mask = 3
+size = Vector3(20, 1, 20)
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=741202109]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0097079, 2.7277176)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=50004289]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 7.074577, 0)
+sky_mode = 1
+
+[node name="Character" parent="." unique_id=1591564553 instance=ExtResource("1_ig7tw")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.025890104, -0.01943016, -0.550884)
